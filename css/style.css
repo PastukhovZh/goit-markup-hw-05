@@ -103,10 +103,10 @@ address {
   align-items: center;
   margin-left: auto;
 }
-
 .header-page-list:not(:last-child){
   margin-right: 50px;
 }
+
 
 .header-list {
   font-weight: 500;
